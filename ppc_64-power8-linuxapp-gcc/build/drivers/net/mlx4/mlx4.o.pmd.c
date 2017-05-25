@@ -1,0 +1,1 @@
+const char net_mlx4_pmd_info[] __attribute__((used)) = "PMD_INFO_STRING= {\"name\" : \"net_mlx4\", \"kmod\" : \"* ib_uverbs & mlx4_en & mlx4_core & mlx4_ib\", \"pci_ids\" : [[5555, 4099, 65535, 65535],[5555, 4103, 65535, 65535],[5555, 4100, 65535, 65535] ]}";
